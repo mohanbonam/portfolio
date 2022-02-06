@@ -1,6 +1,6 @@
 <template>
   <div class="home container">
-    <h3>Place Holder</h3>
+    <h3>Place Holder ===></h3>
   </div>
 </template>
 
