@@ -1,7 +1,6 @@
 <template>
   <div class="home container">
-    <h1>Hello, World!</h1>
-    <h2>Mohan Bonam</h2>
+    <h3>Place Holder</h3>
   </div>
 </template>
 
@@ -26,5 +25,4 @@ export default {
   align-content: center;
   height: 100vh;
 }
-
 </style>
